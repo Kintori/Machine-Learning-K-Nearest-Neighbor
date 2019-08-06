@@ -1,4 +1,4 @@
-# Machine-Learning-K-Nearest-Neighbor
+# Machine Learning: K Nearest Neighbor Algorithm
 What is the K Nearest Neighbor Algorithm?: <br/>
 https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 
